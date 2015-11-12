@@ -6,3 +6,6 @@ Error Msg:
 Database query failed.
 You have an error in your SQL syntax;
 zueira Dont have LIMITS;
+
+
+teste

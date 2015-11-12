@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-alalala
-=======
->>>>>>> f2655ee76802753639e5db8f064a25988b80888e
+function teste(){
+
+}
